@@ -1,0 +1,10 @@
+{
+  "name": "BoxCounter AI - Contador Automático de Cajas",
+  "description": "Herramienta inteligente de visión artificial para conteo automático de cajas, bultos y paquetes por cámara en almacenes y logística.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
